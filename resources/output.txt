@@ -1,0 +1,56 @@
+User with email: stefi@yahoo.com was successfully added!
+User already exists!
+User with email: andrea@yahoo.com was successfully added!
+User already exists!
+Cannot add user! The passwords are different!
+User already exists!
+Cannot add user! Password too short!
+User with email: andrea@yahoo.com is the current user started from 2022/11/28 22:37:33
+User with email: stefi@yahoo.com was not connected!
+The logged-in User is : User{email='andrea@yahoo.com', name='Andrea', parola='12345678'}
+User with email: andrea@yahoo.com was successfully disconnected at  2022/11/28 22:37:33
+Nobody is logged-in !You may try!
+User with email: andrea@yahoo.com is the current user started from 2022/11/28 22:37:33
+User with email: andrea@yahoo.com was successfully disconnected at  2022/11/28 22:37:33
+Nobody is logged-in !You may try!
+User with email: stefi@yahoo.com is the current user started from 2022/11/28 22:37:33
+The flight with id 2 does not exist!
+The flight with id 2 was succesfully added for user with email stefi@yahoo.com
+User with email: stefi@yahoo.com was successfully disconnected at  2022/11/28 22:37:33
+Nobody is logged-in !You may try!
+User with email: andrea@yahoo.com is the current user started from 2022/11/28 22:37:33
+User with email: stefi@yahoo.com already have a ticket for  flight with id: 2
+User with email: andrea@yahoo.com has successfully canceled his ticket for flight with id 2
+User with email: andrea@yahoo.com does not have a ticket for the flight with id 2
+User with email: andrea@yahoo.com was successfully disconnected at  2022/11/28 22:37:33
+Nobody is logged-in !You may try!
+There is no connected user!
+User with email: andrea@yahoo.com is the current user started from 2022/11/28 22:37:33
+The flight with id 2 does not exist!
+The flight with id 2 was succesfully added for user with email andrea@yahoo.com
+The flight with id 5 does not exist!
+Flight from TG_MURES to LISABON at date /2022-03-18/ wit duration 450 minutes  was successfully added!
+Cannot add flight! There is already a flight with id  2
+Flight from EGYPT to MUNICH at date /2022-01-17/ wit duration 170 minutes  was successfully added!
+The flight with id 2 succesfully deleted! 
+User with email: stefi@yahoo.com was notified that the flight with id 2 was canceled! 
+User with email: andrea@yahoo.com was notified that the flight with id 2 was canceled! 
+The flight with id 21 does not exist!
+The flights are: 
+Flight{id=3, from='TG_MURES', to='LISABON', date=/2022-03-18/, duration=450}
+Flight{id=5, from='EGYPT', to='MUNICH', date=/2022-01-17/, duration=170}
+Flight from MAS_PALOMAS to MUNICH at date /2022-12-25/ wit duration 380 minutes  was successfully added!
+Flight from BUDAPEST to MUNICH at date /2022-07-16/ wit duration 356 minutes  was successfully added!
+The flights are: 
+Flight{id=3, from='TG_MURES', to='LISABON', date=/2022-03-18/, duration=450}
+Flight{id=5, from='EGYPT', to='MUNICH', date=/2022-01-17/, duration=170}
+Flight{id=2, from='MAS_PALOMAS', to='MUNICH', date=/2022-12-25/, duration=380}
+Flight{id=4, from='BUDAPEST', to='MUNICH', date=/2022-07-16/, duration=356}
+User with email: valentin@yahoo.com was successfully added!
+Flight from OREGON to WASHINGTON at date /2021-11-08/ wit duration 170 minutes  was successfully added!
+The flights are: 
+Flight{id=3, from='TG_MURES', to='LISABON', date=/2022-03-18/, duration=450}
+Flight{id=5, from='EGYPT', to='MUNICH', date=/2022-01-17/, duration=170}
+Flight{id=2, from='MAS_PALOMAS', to='MUNICH', date=/2022-12-25/, duration=380}
+Flight{id=4, from='BUDAPEST', to='MUNICH', date=/2022-07-16/, duration=356}
+Flight{id=15, from='OREGON', to='WASHINGTON', date=/2021-11-08/, duration=170}
